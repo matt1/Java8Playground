@@ -1,8 +1,9 @@
-Just palying around with some of the new Java8 examples for my own future reference.
+Just playing around with some of the new Java8 examples for my own future reference.
 
 Nothing much for anyone to see but feel free to fork if you find it useful.
 
 ==License==
+
 The MIT License (MIT)
 
 Copyright (c) 2014
